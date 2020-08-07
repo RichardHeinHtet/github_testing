@@ -1,0 +1,18 @@
+HTML is Hyper Text MarkUp Language
+-describe structure of a Web page
+-consists of a series of elements
+-HTML elements tell the browser how to display the content
+
+<!DOCTYPE html> declaration of HTML5
+<head> element contains meta information about the HTML page
+
+The <body> element defines the document's body, and is a container for all the visible contents, such as 
+headings, 
+paragraphs, 
+images, 
+hyperlinks, 
+tables, 
+lists, etc.
+
+<h1> defines the most important heading. 
+<h6> defines the least important heading
